@@ -7,8 +7,8 @@
 - Optimiser le référencement d'un site web
 
 ## Les modifications effectuées
-1. La balise <title> complétée.
-2. La balise <meta> correctement complétée également.
+1. La balise `<title>` complétée.
+2. La balise `<meta>` correctement complétée également.
 3. Suppresssion du blackhat.
 4. Titre donnée aux images.
 5. Changement du mot clef "Paris" pour un mot plus pertinent, comme Lyon...
