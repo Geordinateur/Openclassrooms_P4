@@ -10,7 +10,7 @@
 1. La balise `<title>` complétée.
 2. La balise `<meta>` correctement complétée également.
 3. Suppresssion du blackhat.
-4. Titre donnée aux images.
+4. Attribut `Title` donné aux images.
 5. Changement du mot clef "Paris" pour un mot plus pertinent, comme Lyon...
 6. Suppression des texte sous "format image", pour un format brut, les moteurs de recherches ne savent pas encore lire les images...
 7. Changement des nom de fichier par des nom simple et concis, pour mieux s'y retrouver et aider les robots à comprendre rapidement sur quelles pages y sont trouvent.
